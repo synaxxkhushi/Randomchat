@@ -24,7 +24,7 @@ m_dislike_user_to = (
     "⛔ Lawan bicara anda meninggalkan obrolan\n\n⛔ Your interlocutor leaves the chat"
 )
 
-m_send_some_messages = "Bot tidak bisa meneruskan pesan dari bot\n\nThe bot could not continue the pan from the bot"
+m_send_some_messages = "Tʜᴇ ʙᴏᴛ ᴄᴀɴɴᴏᴛ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜᴇ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ\n\nTʜᴇ ʙᴏᴛ ᴄᴏᴜʟᴅ ɴᴏᴛ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜᴇ ᴘᴀɴ ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ"
 
 m_has_not_dialog = "Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ ᴄʜᴀᴛ\n\nYᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ ᴄʜᴀᴛ"
 
