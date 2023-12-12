@@ -18,8 +18,15 @@ session = sessionmaker(bind=engine)
 
 def add_users(chat=None, user_chat_id=None, username=None):
     """
+    This function add new user in Data Base.
+    Information about user_chat_id and username you can take from chat, but Data Base save only
+    user_chat_id and username, so for interactions with DB, function use additional arguments:
+    user_chat_id and username
 
-   londa lelo
+    :param chat: It structure call.message.chat from telebot
+    :param user_chat_id: Chat id with user
+    :param username:
+    :return:
     """
     global free_users
     global out_users
