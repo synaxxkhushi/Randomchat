@@ -1,4 +1,4 @@
-m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman atau jodoh\n\n🇳🇿 I hope you can make a friend or a partner\n\n💬 untuk mencari teman obrolan gunakan button New Chat"
+m_start = "⚡️ WELCOME ⚡️\n\n I ʜᴏᴘᴇ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ᴀ ғʀɪᴇɴᴅ ᴏʀ sᴏᴜʟ ᴍᴀᴛᴇ\n\n I ʜᴏᴘᴇ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ᴀ ғʀɪᴇɴᴅ ᴏʀ ᴀ ᴘᴀʀᴛɴᴇʀ\n\n💬 ᴛᴏ ғɪɴᴅ ᴀ ᴄʜᴀᴛ ғʀɪᴇɴᴅ ᴜsᴇ ᴛʜᴇ Nᴇᴡ Cʜᴀᴛ ʙᴜᴛᴛᴏɴ"
 
 m_is_not_free_users = (
     "🥺 Sᴏʀʀʏ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ ᴄʜᴀᴛ \n\n☹️ Sᴏʀʀʏ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ ᴄʜᴀᴛ"
