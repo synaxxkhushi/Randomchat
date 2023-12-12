@@ -17,10 +17,10 @@ def inline_menu():
     callback = types.InlineKeyboardButton(
         text="\U00002709 New chat", callback_data="NewChat"
     )
-    kenkan = types.InlineKeyboardButton(text="🔵 ᴏᴡɴᴇʀ", url=f"t.me/{OWNER}")
-    group = types.InlineKeyboardButton(text="👥 ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP}")
+    kenkan = types.InlineKeyboardButton(text="Dᴇᴠ", url=f"t.me/{OWNER}")
+    group = types.InlineKeyboardButton(text="Gʀᴏᴜᴘ", url=f"https://t.me/{GROUP}")
     channel = types.InlineKeyboardButton(
-        text="ᴄʜᴀɴɴᴇʟ 📣", url=f"https://t.me/{CHANNEL}"
+        text="Cʜᴀɴɴᴇʟ", url=f"https://t.me/{CHANNEL}"
     )
     menu = types.InlineKeyboardMarkup()
     menu.add(kenkan, channel, group, callback)
